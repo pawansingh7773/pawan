@@ -1,5 +1,5 @@
 
-
+//frog jump++;
 public class main2{
 static int frogjump(int []h , int idx){
     int n = h.length;
